@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://aje-nlw.github.io/aje-nlw/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in aje-nlw/aje-nlw project"
+        ]
+    },
+    "items": []
+}
