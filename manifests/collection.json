@@ -1,0 +1,13 @@
+{
+  "id" : "https://aje-nlw.github.io/aje-nlw/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in aje-nlw/aje-nlw project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://aje-nlw.github.io/aje-nlw/manifests/manifest.json",
+    "label" : "Prawf teitl"
+  } ]
+}
